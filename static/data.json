@@ -1,0 +1,1173 @@
+{
+  "seller": {
+    "name": "车易配（演示店1）",
+    "description": "云供应链平台",
+    "deliveryTime": "45",
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 200,
+    "deliveryPrice": 20,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "供货认证、 品质保证 、价格透明、 安全支付、 灵活多样配送及时配送到门、 快捷省心售后放心技术调解,公正公平!",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满2800减50"
+      },
+      {
+        "type": 1,
+        "description": "全场机油、机滤、空滤8折"
+      },
+      {
+        "type": 2,
+        "description": "单人首次购买优惠套餐"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持线下下单,请联系24小时客服人员"
+      },
+      {
+        "type": 4,
+        "description": "已加入“三包”计划,正品保障"
+      }
+    ],
+    "avatar": "http://static.dev.cheyian.com/ns/html/weixin-union/img/logo-50.png",
+    "headerbg": "http://static.cheyian.com/cheyipei/img/cheyipei-search.jpg",
+    "pics": [
+      "http://static.che1an.com/cheyian/2016/09/13/-P-Qj6poaW1Qmi9hCU_1473763192175.jpg",
+      "http://static.che1an.com/upload/16/03/31/56fd2e2e48be5.jpg",
+      "http://static.che1an.com/cheyian/2016/09/13/-P-Qj6poaW1Qmi9hCU_1473763192175.jpg",
+      "http://static.che1an.com/upload/16/03/31/56fd2e2e48be5.jpg"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类:品牌件、拆车件",
+      "上海车易信息科技有限公司",
+      "营业时间:10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "美孚1号 SN-40 4升",
+          "price": 128,
+          "oldPrice": "138",
+          "description": "适用车型：通用件",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "全球60个国家（地区）的消费者使用认可，全美众多车队客户使用认可，全球顶尖工业大客户开发和服务经验！",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很好用的油",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6993/585/1409101657301639/thumb_150/thumb_150_150d1f5b3fc-9eec-4962-9835-c7a77a549180.jpg",
+          "image": "https://image.autozi.com/goods/6993/585/1409101657301639/thumb_960/thumb_960_960d1f5b3fc-9eec-4962-9835-c7a77a549180.jpg"
+        },
+        {
+          "name": "瓦尔塔  免维护蓄电池",
+          "price": 200,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://image.autozi.com/goodsImage/product/c130660021/150_1%20(1).JPG",
+          "image": "https://image.autozi.com/goodsImage/product/c130660021/350_DSC_0036.JPG"
+        },
+        {
+          "name": "博世 机油滤清器",
+          "price": 50,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "好用",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6102/599/1504242038080049/thumb_150/thumb_150_1509f272f62-6f46-41f9-8196-3b2ca453ab9b.jpg",
+          "image": "https://image.autozi.com/goods/6102/599/1504242038080049/thumb_350/thumb_350_3509f272f62-6f46-41f9-8196-3b2ca453ab9b.jpg"
+        },
+        {
+          "name": "路豪 前刹车片",
+          "price": 450,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods2/6106/599/1410271949264786/thumb_150/thumb_150_150dd58ec7a-8200-4dec-b33b-57df66624ae8.jpg",
+          "image": "https://image.autozi.com/goods2/6106/599/1410271949264786/thumb_960/thumb_960_960dd58ec7a-8200-4dec-b33b-57df66624ae8.jpg"
+        },
+        {
+          "name": "超焰 火花塞(铱铂金）",
+          "price": 360,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "带速好稳定多了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/GYS73433908/1705171400495535/1705221416131764/thumb_150/thumb_150_15047c3ad51-b013-4860-a95c-6d8eb0b99dd5.jpg",
+          "image": "https://image.autozi.com/goods/GYS73433908/1705171400495535/1705221416131764/thumb_350/thumb_350_35098edc97f-e59f-4d4e-99d2-0584709fd30b.jpg"
+        },
+        {
+          "name": "博世  雨刮片有骨",
+          "price": 90,
+          "oldPrice": "",
+          "description": "适用车型：通用",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6105/599/1309051538053855/thumb_150/thumb_150_15095b49e0d-967b-4df6-8916-4f80ecf7614e.jpg",
+          "image": "https://image.autozi.com/goods/6105/599/1309051538053855/thumb_350/thumb_350_350b1eb6e48-2009-4674-821d-e9b1be18e738.jpg"
+        },
+        {
+          "name": "正时套装 K0240802",
+          "price": 680,
+          "oldPrice": "",
+          "description": "品牌件:盖茨",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_150/thumb_150_150c2d6ff5a-f153-417f-80c9-271135bb1749.jpg",
+          "image": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_350/thumb_350_3500797ab85-0edb-48a8-8303-6b2d59f9780e.jpg"
+        },
+        {
+          "name": "欧司朗灯泡H1 100W",
+          "price": 150,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        },
+        {
+          "name": "博世 玻璃水",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6100/599/1504292254091778/thumb_150/thumb_150_150a1abc434-7476-4c06-bcfd-c953960ede75.jpg",
+          "image": "https://image.autozi.com/goods/6100/599/1504292254091778/thumb_350/thumb_350_350a1abc434-7476-4c06-bcfd-c953960ede75.jpg"
+        },
+        {
+          "name": "骆驼润滑脂高温黄油",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6010/661/1412161101156224/thumb_150/thumb_150_150ee2e2ce0-e237-4a64-acc8-eb8cf988f080.jpg",
+          "image": "https://image.autozi.com/goods/6010/661/1412161101156224/thumb_350/thumb_350_350ee2e2ce0-e237-4a64-acc8-eb8cf988f080.jpg"
+        }
+      ]
+    },
+    {
+      "name": "油品",
+      "type": 2,
+      "foods": [
+        {
+          "name": "美孚1号 SN-40 4升",
+          "price": 128,
+          "oldPrice": 138,
+          "description": "规格型号：SN 0W-40 4升",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6993/585/1409101657301639/thumb_150/thumb_150_150d1f5b3fc-9eec-4962-9835-c7a77a549180.jpg",
+          "image": "https://image.autozi.com/goods/6993/585/1409101657301639/thumb_960/thumb_960_960d1f5b3fc-9eec-4962-9835-c7a77a549180.jpg"
+        }
+      ]
+    },
+    {
+      "name": "蓄电池",
+      "type": 1,
+      "foods": [
+        {
+          "name": "瓦尔塔  免维护蓄电池",
+          "price": 200,
+          "oldPrice": 210,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/product/c130660021/150_1%20(1).JPG",
+          "image": "https://image.autozi.com/goodsImage/product/c130660021/350_DSC_0036.JPG"
+        }
+      ]
+    },
+    {
+      "name": "滤清器",
+      "type": -1,
+      "foods": [
+        {
+          "name": "博世 机油滤清器",
+          "price": 50,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "质量还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6102/599/1504242038080049/thumb_150/thumb_150_1509f272f62-6f46-41f9-8196-3b2ca453ab9b.jpg",
+          "image": "https://image.autozi.com/goods/6102/599/1504242038080049/thumb_350/thumb_350_3509f272f62-6f46-41f9-8196-3b2ca453ab9b.jpg"
+        },
+        {
+          "name": "曼牌 机油滤清器",
+          "price": 40,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "质量还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/product/d110L30042/150_1.jpg",
+          "image": "https://image.autozi.com/goodsImage/product/d110L30042/350_4.jpg"
+        },
+        {
+          "name": "马勒  机油滤清器",
+          "price": 60,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "质量还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/product/d110L20022/150_01%20(1).jpg",
+          "image": "https://image.autozi.com/goodsImage/product/d110L20022/350_01%20(1).jpg"
+        }
+      ]
+    },
+    {
+      "name": "制动系统",
+      "type": -1,
+      "foods": [
+        {
+          "name": "OEM  前刹车盘",
+          "price": 219,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/product/020602018/150_020602018.jpg",
+          "image": "https://image.autozi.com/goodsImage/product/020602018/350_020602018.jpg"
+        },
+        {
+          "name": "迪帆  前刹车盘",
+          "price": 229,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6077/1408141504022699/1408151719095806/thumb_150/thumb_150_15016a789bd-635e-4d31-8160-4683da38c7d8.jpg",
+          "image": "https://image.autozi.com/goods/6077/1408141504022699/1408151719095806/thumb_350/thumb_350_35016a789bd-635e-4d31-8160-4683da38c7d8.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点火系统",
+      "type": -1,
+      "foods": [
+        {
+          "name": "超焰  火花塞铱铂金",
+          "price": 87,
+          "oldPrice": "",
+          "description": "品牌件:超焰",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/GYS73433908/1705171400495535/1705221416131764/thumb_150/thumb_150_15047c3ad51-b013-4860-a95c-6d8eb0b99dd5.jpg",
+          "image": "https://image.autozi.com/goods/GYS73433908/1705171400495535/1705221416131764/thumb_350/thumb_350_35086251ede-e4cf-4eaf-ab02-03447d1a9444.jpg"
+        },
+        {
+          "name": "NGK  火花塞铱白金",
+          "price": 87,
+          "oldPrice": "",
+          "description": "品牌件:NGK",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6097/600/1505311521504921/thumb_150/thumb_150_15070d8e68b-f3b2-4ca0-ab0b-b7292713202d.jpg",
+          "image": "https://image.autozi.com/goods/6097/600/1505311521504921/thumb_350/thumb_350_35070d8e68b-f3b2-4ca0-ab0b-b7292713202d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "皮带及涨紧轮",
+      "type": -1,
+      "foods": [
+        {
+          "name": "盖茨  正时套装",
+          "price": 306,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_150/thumb_150_150c2d6ff5a-f153-417f-80c9-271135bb1749.jpg",
+          "image": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_350/thumb_350_350d44f8ca9-9d71-43e4-925f-69278d863d4d.jpg"
+        },
+        {
+          "name": "盖茨 皮带",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_150/thumb_150_150c2d6ff5a-f153-417f-80c9-271135bb1749.jpg",
+          "image": "https://image.autozi.com/goods/6118/618/1309051540116251/thumb_350/thumb_350_350d44f8ca9-9d71-43e4-925f-69278d863d4d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "雨刮片",
+      "type": -1,
+      "foods": [
+        {
+          "name": "博世  雨刮片有骨",
+          "price": 314,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goods/6105/599/1309051538053855/thumb_150/thumb_150_15095b49e0d-967b-4df6-8916-4f80ecf7614e.jpg",
+          "image": "https://image.autozi.com/goods/6105/599/1309051538053855/thumb_350/thumb_350_350b1eb6e48-2009-4674-821d-e9b1be18e738.jpg"
+        }
+      ]
+    },
+    {
+      "name": "照明",
+      "type": -1,
+      "foods": [
+        {
+          "name": "欧司朗灯泡H1 100W",
+          "price": 100,
+          "oldPrice": "",
+          "description": "欧司朗灯泡",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的品牌",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        },
+        {
+          "name": "欧司朗灯泡H11 120W",
+          "price": 100,
+          "oldPrice": "",
+          "description": "欧司朗灯泡",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的品牌",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        },
+        {
+          "name": "欧司朗灯泡H2 150W",
+          "price": 100,
+          "oldPrice": "",
+          "description": "欧司朗灯泡",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的品牌",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        },
+        {
+          "name": "欧司朗灯泡H3 200W",
+          "price": 100,
+          "oldPrice": "",
+          "description": "欧司朗灯泡",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的品牌",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        },
+        {
+          "name": "欧司朗灯泡H4 250W",
+          "price": 100,
+          "oldPrice": "",
+          "description": "欧司朗灯泡",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的品牌",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://image.autozi.com/goodsImage/250/2500000517/150_960_01.jpg",
+          "image": "https://image.autozi.com/goodsImage/250/2500000517/350_960_01.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,配件齐全,我经常定这家的货,非常赞,以后也会常来,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "三滤",
+        "火花塞",
+        "雨刮片",
+        "机油",
+        "正时皮带"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "火花塞"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的店",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "正品，质量保障",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "油日期比较新",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "润滑油"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "挺好的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给送货小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "以后还要再来这家定",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
