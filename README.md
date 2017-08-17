@@ -28,13 +28,15 @@
 
 ## 安装步骤
 >(先确认node环境搭建好~！)
-
+``` bash
 # install dependencies
 npm install
 
 # serve with hot reload at http://localhost:8080/#/goods
 npm run dev
 
+# build for production with minification
+npm run build
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
